@@ -5,7 +5,7 @@
 - Library Used: Matplotlib , Pandas
 - Database Used: MySQL
 
-This Python project implements a simple Bank System that allows users to perform various banking operations such as account creation, balance checking, depositing, withdrawing, and fund transfers. Built using object-oriented programming, the system ensures secure handling of user accounts and provides a straightforward interface for managing financial transactions. The project is designed to demonstrate basic banking functionalities and serve as a foundation for further development in financial applications.
+This Python Console-based project implements a simple Bank System that allows users to perform various banking operations such as account creation, balance checking, depositing, withdrawing, and fund transfers. Built using object-oriented programming, the system ensures secure handling of user accounts and provides a straightforward interface for managing financial transactions. The project is designed to demonstrate basic banking functionalities and serve as a foundation for further development in financial applications.
 
 
 ## Lessons Learned
